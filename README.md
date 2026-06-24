@@ -175,6 +175,10 @@ python app.py
 
 ## 👤 Developed By
 
+**Adarsh Gurjar**  
+Computer Science and Business Systems (CSBS)  
+Medicaps University
+
 **Himesh Rinchhodiya**  
 Computer Science and Business Systems (CSBS)  
 Medicaps University
